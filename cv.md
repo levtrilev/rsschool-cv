@@ -44,11 +44,14 @@ Upper Intermediate (B2) test Rosatom Academy 2018,
 TOEFL 570 points 1992 New York – official certificate
 
 ### MY CODE EXAMPLES
-My SUREcrm repo: https://github.com/levtrilev/surecrm
-```
-My Codewars example:
+[My SUREcrm github repo](https://github.com/levtrilev/surecrm)
 
-Challenge(4kyu): Complete the function to return true when its argument is an array that has the same nesting structures and same corresponding length of nested arrays as the first array. For your convenience, there is already a function 'isArray(o)' declared and defined that returns true if its argument is an array, false otherwise.
+#### My Codewars example:
+```
+Challenge(4kyu): Complete the function to return true when its argument is an array that has 
+the same nesting structures and same corresponding length of nested arrays as the first array. 
+For your convenience, there is already a function 'isArray(o)' declared and defined that 
+returns true if its argument is an array, false otherwise.
  // should return true
 [ 1, 1, 1 ].sameStructureAs( [ 2, 2, 2 ] );          
 [ 1, [ 1, 1 ] ].sameStructureAs( [ 2, [ 2, 2 ] ] );  
