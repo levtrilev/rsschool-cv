@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School project CV#1
+https://levtrilev.github.io/rsschool-cv/cv
