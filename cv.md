@@ -43,7 +43,7 @@
 ### SKILLS
 **React-JS Typescript Recoil Material-UI REST-API SQL PostgreSQL** 
 
-_Flutter/Durt async_redux Dart C# C Python Microsoft-SQL-Server
+_Flutter Durt async_redux C# C Python Microsoft-SQL-Server
 Product-owner Project-manager_
 
 ### ENGLISH
