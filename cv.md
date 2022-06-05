@@ -1,7 +1,7 @@
 # Lev Trishankov
 **React JS Software Engeneer**
 
-![Lev Trishankov](/assets/images/myphoto.jpg "Lev Trishankov, React JS Software Engeneer")
+![Lev Trishankov](/assets/images/myphoto.jpg)
 
 ### Contact information:
 ```
