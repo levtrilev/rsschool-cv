@@ -8,14 +8,13 @@
  Address:  21-4 Bolshaya Filiovskaya Street, Moscow
  Phone: +7 964 783 3461, Email: levtrishankov@yandex.ru
  Discord: Lev Trishankov (@levtrilev)
- Telegram: @Lev_Trishankov
- Github: @levtrilev
+ Telegram: @Lev_Trishankov, Github: levtrilev
 ```
 ### OBJECTIVE 	
 ***Develop React JS applications as B2B  products***
 
 ### SUMMARY
-<p>I have a good experience as a Project manager, Product manager, IT department manager, but since my young ages most of all I like to create software with my own hands, so I decided not to deny myself this pleasure</p>
+<p>I have a good experience as a Project manager, Product manager, IT department manager, but since my young ages I like to create software with my own hands most of all, so I decided not to deny myself this pleasure</p>
 
 ### WORK EXPERIENCE
 
