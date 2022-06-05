@@ -6,7 +6,7 @@
 ### Contact information:
 ```
  Address:  21-4 Bolshaya Filiovskaya Street, Moscow
- Phone: +7 964 783 3461, Email: levtrishankov@gmail.com, levtrishankov@gmail.com
+ Phone: +7 964 783 3461, Email: levtrishankov@yandex.ru
  Discord: Lev Trishankov (@levtrilev)
  Telegram: @Lev_Trishankov
  Github: @levtrilev
