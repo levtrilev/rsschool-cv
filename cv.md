@@ -1,14 +1,21 @@
 # Lev Trishankov
 **React JS Software Engeneer**
 
-![Lev Trishankov](/assets/images/myphoto.jpg)
+![Lev Trishankov](/assets/images/myphoto.jpg "Lev Trishankov, React JS Software Engeneer")
+
+### Contact information:
 ```
  Address:  21-4 Bolshaya Filiovskaya Street, Moscow
- Phone: +7 964 783 3461, Email: levtrishankov@gmail.com
+ Phone: +7 964 783 3461, Email: levtrishankov@gmail.com, levtrishankov@gmail.com
  Discord: Lev Trishankov (@levtrilev)
+ Telegram: @Lev_Trishankov
+ Github: @levtrilev
 ```
 ### OBJECTIVE 	
-***Compose React JS application for interfacing with REST API***
+***Develop React JS applications as B2B  products***
+
+### SUMMARY
+<p>I have a good experience as a Project manager, Product manager, IT department manager, but since my young ages most of all I like to create software with my own hands, so I decided not to deny myself this pleasure</p>
 
 ### WORK EXPERIENCE
 
@@ -35,13 +42,19 @@
 - Led the project of development and implementation of the NPP main equipment repair management system (EAM-system)
 
 ### SKILLS
-**React JS typescript Recoil REST-API SQL** 
-PostgreSQL Flutter async_redux Dart C# C Python Microsoft SQL Server
-Product owner Project manager
+**React-JS Typescript Recoil Material-UI REST-API SQL PostgreSQL** 
+
+_Flutter/Durt async_redux Dart C# C Python Microsoft-SQL-Server
+Product-owner Project-manager_
 
 ### ENGLISH
-Upper Intermediate (B2) test Rosatom Academy 2018,
-TOEFL 570 points 1992 New York – official certificate
+- Upper Intermediate (B2) test Rosatom Academy 2018
+- TOEFL 570 points 1992 New York – official certificate
+
+### EDUCATION
+- 1988 Moscow Power Engineering Institute
+- 2000 ACCA / Enterprise Finance Management. Financial University under the Government of the RF
+- 2018 Rosatom Academy. Business English, Upper Intermediate graduate test
 
 ### MY CODE EXAMPLES
 [My SUREcrm github repo](https://github.com/levtrilev/surecrm)
