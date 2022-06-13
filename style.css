@@ -13,11 +13,16 @@ html {
 }
 .nav {
   background-color: rgb(73, 117, 187);
-  margin-left: 100px;
+  /* margin-left: 100px; */
   width: 890px;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+}
+.nav-back {
+    background-color: rgb(73, 117, 187);
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .navlink {
   color: whitesmoke;
