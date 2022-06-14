@@ -20,9 +20,9 @@ html {
   justify-content: space-around;
 }
 .nav-back {
-    background-color: rgb(73, 117, 187);
-    margin-left: 100px;
-    margin-right: 100px;
+  background-color: rgb(73, 117, 187);
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .navlink {
   color: whitesmoke;
@@ -69,8 +69,32 @@ html {
 }
 .footer {
   padding-left: 100px;
+  padding-right: 100px;
+}
+.footer-content {
+  height: 50px;
+  margin-block-end: 0.4em;
+  background-color: rgb(171, 200, 246);
+  padding-left: 100px;
+  padding-right: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 .photo {
   margin: 10px 10px 10px 100px;
   width: 150px;
+}
+.rss-footer-logo {
+  height: 30px;
+}
+.github-footer-logo {
+  height: 30px;
+}
+.github-footer-span {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
