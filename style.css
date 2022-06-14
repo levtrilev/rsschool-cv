@@ -67,6 +67,9 @@ html {
   margin-block-start: 0.4em;
   margin-block-end: 0.4em;
 }
+.surecrm-link {
+  margin-left: 113px;
+}
 .footer {
   padding-left: 100px;
   padding-right: 100px;
